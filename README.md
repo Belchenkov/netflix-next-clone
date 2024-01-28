@@ -1,6 +1,6 @@
 # Clone Netflix Site
 
-> 
+> Build clone Netflix site use React, Tailwind CSS, Next.JS, Prisma, MongoDB, and NextAuth
 
 ## Getting Started
 
